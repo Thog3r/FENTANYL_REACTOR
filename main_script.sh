@@ -253,7 +253,7 @@ main() {
         setup_nftables "$interface"
     fi
     start_nfqws
-    log "Настройка успешно завершена"
+    log "Фентаниловый реактор запущен. GEORGE DROYD в сети."
 }
 
 # Запуск скрипта
